@@ -58,6 +58,7 @@ pipeline {
             echo 'PIPELINE FAILED!'
             echo 'Check console output for errors!'
             echo '================================'
+    
         }
     }
 }
